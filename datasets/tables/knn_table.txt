@@ -1,0 +1,20 @@
+Liverpool:102
+Man City:99
+Chelsea:95
+Man United:85
+Tottenham:80
+West Ham:79
+Arsenal:67
+Wolves:65
+Leicester:58
+Brighton:56
+Crystal Palace:51
+Everton:43
+Aston Villa:42
+Southampton:41
+Brentford:38
+Newcastle:37
+Burnley:27
+Leeds:24
+Norwich:13
+Watford:11

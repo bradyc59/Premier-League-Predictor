@@ -1,0 +1,20 @@
+Liverpool:1
+Man City:2
+Chelsea:3
+Man United:4
+Tottenham:5
+West Ham:6
+Arsenal:7
+Wolves:8
+Leicester:9
+Brighton:10
+Crystal Palace:11
+Everton:12
+Aston Villa:13
+Southampton:14
+Brentford:15
+Newcastle:16
+Burnley:17
+Leeds:18
+Norwich:19
+Watford:20

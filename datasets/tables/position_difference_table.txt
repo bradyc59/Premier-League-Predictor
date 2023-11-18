@@ -1,0 +1,20 @@
+Man City:0
+Liverpool:0
+Chelsea:0
+Tottenham:-1
+Arsenal:1
+Man United:0
+West Ham:0
+Leicester:-4
+Brighton:-1
+Wolves:-1
+Newcastle:-4
+Crystal Palace:3
+Brentford:-1
+Aston Villa:1
+Southampton:7
+Everton:0
+Leeds:0
+Burnley:-1
+Watford:1
+Norwich:0
